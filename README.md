@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Personal Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my personal website built using React.
+
+## Heroku Link
+
+https://harison-lacey.herokuapp.com/
+
+## GitHub Link
+
+https://github.com/HarisonLacey/personal-website
 
 ## Available Scripts
 
