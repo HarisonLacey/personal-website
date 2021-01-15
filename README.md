@@ -2,6 +2,12 @@
 
 This is my personal website built using React.
 
+## Installation
+
+1. Copy folder to local machine 
+2. Navigate to folder and type 'npm install' then 'npm start' command
+3. Open http://localhost:3000 to view in browser
+
 ## Heroku Link
 
 https://harison-lacey.herokuapp.com/
