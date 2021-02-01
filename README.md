@@ -1,6 +1,6 @@
 # Personal Website
 
-This is my personal website built using React.
+This is my personal website built from scratch using React.
 
 ## Installation
 
